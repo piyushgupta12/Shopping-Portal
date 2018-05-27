@@ -1,0 +1,2 @@
+india;delhi;500sqft;100000
+pakistan;lahore;100sqft;5000
